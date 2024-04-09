@@ -40,7 +40,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
  
-Above is n example of a Domain Controller VM “DC-1” with a static ip address and the identical Vnet as client-1 which is AD-Lab
+Above is an example of a Domain Controller VM “DC-1” with a static ip address and the identical Vnet as client-1 which is AD-Lab
 
  </p>
 <br />
@@ -56,9 +56,10 @@ Above is an example of the connectivity between client-1 and domain controller, 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bma7IRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DA4IdPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Above is an example of how to setup Active Diretory Services and promote the server to the domain controller
 </p>
 <br />
