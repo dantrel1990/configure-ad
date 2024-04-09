@@ -51,7 +51,7 @@ Above is n example of a Domain Controller VM “DC-1” with a static ip address
  <img src="https://i.imgur.com/Jhxis7Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of 
+Above is an example of the connectivity between client-1 and domain controller, pin -t in command prompt and enabling ICMPv4 on the local windows firewall
 </p>
 <br />
 
