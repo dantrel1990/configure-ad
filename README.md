@@ -63,3 +63,13 @@ Above is an example of the connectivity between client-1 and domain controller, 
 Above is an example of how to setup Active Diretory Services and promote the server to the domain controller
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qjhS95Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iw7maG3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pUqdY7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example on how to create an admin and normal user accounts in active directory
+</p>
+<br />
