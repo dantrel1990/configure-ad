@@ -66,7 +66,6 @@ Above is an example of how to setup Active Diretory Services and promote the ser
 
 <p>
 <img src="https://i.imgur.com/qjhS95Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/iw7maG3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/pUqdY7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -79,5 +78,15 @@ Above is an example on how to create an admin and normal user accounts in active
 </p>
 <p>
 Above is an example of how to change client-1s DNS settings to the Domain Controllers private ipaddress
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hd6PeFH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Iaamz1W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V2Dqj6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example on how to remote desktop for non-admin users
 </p>
 <br />
