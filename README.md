@@ -73,3 +73,12 @@ Above is an example of how to setup Active Diretory Services and promote the ser
 Above is an example on how to create an admin and normal user accounts in active directory
 </p>
 <br />
+
+<p>
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DA4IdPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Above is an example of how to setup Active Diretory Services and promote the server to the domain controller
+</p>
+<br />
