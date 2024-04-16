@@ -35,12 +35,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/toL0Yso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/XcocFp5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/mZdDXt9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AUpJ6p5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/yj03piL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
  
-Above is an example of a Domain Controller VM “DC-1” with a static ip address and the identical Vnet as client-1 which is AD-Lab
+Above is a list of deployment and configuration steps to install an active directory on a Windows 10 (21H2). 
+Active Directory (AD) is Microsoft's proprietary directory service. It runs on Windows Server and enables administrators to manage permissions 
+and access to network resources. Active Directory stores data as objects. An object is a single element, 
+such as a user, group, application, or device such as a printer.
 
  </p>
 <br />
