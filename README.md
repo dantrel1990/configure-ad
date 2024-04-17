@@ -64,7 +64,7 @@ such as a user, group, application, or device such as a printer.
  </p>
  <p>
 Above is an example of how to check the connectivity between client-1 and the domain controller by 
- launching the command prompt from the start menu and pinging -t. if it's showing (request timed out)
+ launching the command prompt from the start menu and pinging -t 10.2.0.4. if it's showing (request timed out)
  domain controller's firewall is blocking ICMP traffic. 
 </p>
 <br />
