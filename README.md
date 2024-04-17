@@ -69,8 +69,6 @@ Above is an example of how to check the connectivity between client-1 and the do
 </p>
 <br />
  
- 
- 
  <img src="https://i.imgur.com/GjsrG14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/YXn7TWK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -90,39 +88,27 @@ connectivity to client-1.
  controllers server manager. once installed the remote desktop must be rebooted
 </p>
  
- 
- 
  <img src="https://i.imgur.com/ERTft3y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of how  
- 
-</p>
-<br />
-
-<p>
-<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/pUqdY7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Above is an example of how to create an admin and normal user accounts in an active directory
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/jH5wxV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Above is an example of how to change client-1s DNS settings to the Domain Controller private IP address
-</p>
+Above is an example of how creating an organizational unit called admins and an organizational unit called employees
+jane_admin has been added to the admins' OU domain security group.
+ </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/hd6PeFH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Iaamz1W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/V2Dqj6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of how to remote desktop for non-admin users
+Above is an example of a remote desktop connection allowing all non-administrative domain users to connect to the domain
 </p>
 <br />
+
+
+<P>
+<img src="https://i.imgur.com/TvJnaZi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</P>
+<p>
+ Above is an example of launching Powershell from the star menu as an administrator. Create a new file 
+ , paste the script's contents into Powershell, and observe as the user accounts are being created.
+</p>
