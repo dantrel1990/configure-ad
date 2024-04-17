@@ -83,7 +83,14 @@ Above is an example of how to check the connectivity between client-1 and the do
 
 <p>
 <img src="https://i.imgur.com/bma7IRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DA4IdPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
+<p>
+ Above is an example of 
+</p>
+ 
+ 
+ 
+ <img src="https://i.imgur.com/DA4IdPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Above is an example of how to setup Active Diretory Services and promote the server to the domain controller
