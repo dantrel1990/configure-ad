@@ -45,17 +45,39 @@ Above is a list of deployment and configuration steps to install an active direc
 Active Directory (AD) is Microsoft's proprietary directory service. It runs on Windows Server and enables administrators to manage permissions 
 and access to network resources. Active Directory stores data as objects. An object is a single element, 
 such as a user, group, application, or device such as a printer.
-
- </p>
+</p>
 <br />
 
 <p>
+<img src="https://i.imgur.com/LHbyytH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+ Above is an image of a VM with an IP address set to static. When a device is assigned a static IP address
+ the address does not change. it is ideal for devices on your network that need to be accessed very reliably by
+ other systems or devices on the network
+</p>
+<br />
+
+ 
+ 
+ <p>
 <img src="https://i.imgur.com/I3hR0Vy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p>
+ <p>
+Above is an example of how to check the connectivity between client-1 and the domain controller by 
+ launching the command prompt from the start menu and pinging -t. if it's showing (request timed out)
+ domain controller's firewall is blocking ICMP traffic. 
+</p>
+<br />
+ 
+ 
+ 
  <img src="https://i.imgur.com/GjsrG14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/Jhxis7Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of the connectivity between client-1 and domain controller, pin -t in command prompt and enabling ICMPv4 on the local windows firewall
+Above is an example of how to check the connectivity between client-1 and the domain controller by 
+ launching the command prompt from the start menu and ping-t 10.2.0.4. if it's showing (request timed out)
+ domain controller's firewall is blocking ICMP traffic. 
 </p>
 <br />
 
