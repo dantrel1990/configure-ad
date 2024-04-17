@@ -72,12 +72,13 @@ Above is an example of how to check the connectivity between client-1 and the do
  
  
  <img src="https://i.imgur.com/GjsrG14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/Jhxis7Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/YXn7TWK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of how to check the connectivity between client-1 and the domain controller by 
- launching the command prompt from the start menu and ping-t 10.2.0.4(perpetual ping). if it's showing (request timed out)
- domain controller's firewall is blocking ICMP traffic. 
+Above is an example of how to enable the inbound rules for ICMPv4 traffic on the domain controller firewall.
+once complete launch the command prompt from the start menu and ping 
+-t10.2.0.4(perpetual ping). There should be a reply from the domain controller's IP address ensuring 
+connectivity to client-1. 
 </p>
 <br />
 
@@ -93,7 +94,8 @@ Above is an example of how to check the connectivity between client-1 and the do
  <img src="https://i.imgur.com/DA4IdPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of how to setup Active Diretory Services and promote the server to the domain controller
+Above is an example of how to setup Active Directory Services and promote the server to the domain controller 
+ 
 </p>
 <br />
 
@@ -102,7 +104,7 @@ Above is an example of how to setup Active Diretory Services and promote the ser
 <img src="https://i.imgur.com/pUqdY7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example on how to create an admin and normal user accounts in active directory
+Above is an example of how to create an admin and normal user accounts in an active directory
 </p>
 <br />
 
@@ -110,7 +112,7 @@ Above is an example on how to create an admin and normal user accounts in active
 <img src="https://i.imgur.com/jH5wxV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of how to change client-1s DNS settings to the Domain Controllers private ipaddress
+Above is an example of how to change client-1s DNS settings to the Domain Controller private IP address
 </p>
 <br />
 
@@ -120,6 +122,6 @@ Above is an example of how to change client-1s DNS settings to the Domain Contro
 <img src="https://i.imgur.com/V2Dqj6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example on how to remote desktop for non-admin users
+Above is an example of how to remote desktop for non-admin users
 </p>
 <br />
