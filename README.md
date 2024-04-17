@@ -86,21 +86,22 @@ connectivity to client-1.
 <img src="https://i.imgur.com/bma7IRd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 <p>
- Above is an example of 
+ Above is an example of how to install an active directory it must be installed from the domain
+ controllers server manager. once installed the remote desktop must be rebooted
 </p>
  
  
  
- <img src="https://i.imgur.com/DA4IdPA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/ERTft3y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above is an example of how to setup Active Directory Services and promote the server to the domain controller 
+Above is an example of how  
  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/qjhS95Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/pUqdY7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
